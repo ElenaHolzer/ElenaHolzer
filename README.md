@@ -30,6 +30,8 @@ Demo videos of my GameDev and art projects:\
 <a href="https://www.youtube.com/channel/UCz3NjkPxy6WkMclQIUecLYg"><img src="https://img.shields.io/badge/-Elena Holzer-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 
 ### &nbsp;Crocky in the Sewer [2021]
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=FFFFFF)&nbsp;\
 &nbsp;Crocky GIF\
 &nbsp;Sep - Oct 2021\
