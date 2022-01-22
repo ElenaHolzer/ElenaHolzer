@@ -26,15 +26,20 @@
 ![Google Suite](https://img.shields.io/badge/-Google%20Suite-05122A?style=flat-square&logo=google-drive&logoColor=4285F4)&nbsp;
 
 ## &nbsp;Projects
-Demo videos of my GameDev and art projects: <a href="https://www.youtube.com/channel/UCz3NjkPxy6WkMclQIUecLYg"><img src="https://img.shields.io/badge/-Elena Holzer-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
+&nbsp;Visit my YouTube channel for demo videos of my GameDev and art projects:
 
-### &nbsp;Crocky in the Sewer [2021]
-&nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=FFFFFF)&nbsp;\
+&nbsp;<a href="https://www.youtube.com/channel/UCz3NjkPxy6WkMclQIUecLYg"><img src="https://img.shields.io/badge/-Elena Holzer-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
+
+---
+
+### &nbsp;Crocky in the Sewer [Sep - Oct 2021]
+&nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=FFFFFF)
+
 <img src="https://user-images.githubusercontent.com/98030917/150637605-9e19174b-fbb5-40ad-ab5f-a6b5056e63f4.gif" alt="Crocky_GIF" width="186" height="149"> <a href="https://github.com/ElenaHolzer/crocky-in-the-sewer">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=crocky-in-the-sewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="50%" height="50%"/> </a>
 
-&nbsp;Sep - Oct 2021\
-&nbsp;2D Jump'n'Run | for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
+for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
+
 ***
 ### &nbsp;Panty Protect [2021]
 
