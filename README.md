@@ -30,7 +30,8 @@ Demo videos of my GameDev and art projects:\
 <a href="https://www.youtube.com/channel/UCz3NjkPxy6WkMclQIUecLYg"><img src="https://img.shields.io/badge/-Elena Holzer-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 
 ### &nbsp;Crocky in the Sewer [2021]
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
+<img src="https://user-images.githubusercontent.com/98030917/150637605-9e19174b-fbb5-40ad-ab5f-a6b5056e63f4.gif" alt="Crocky_GIF" width="186" height="149">
 
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=FFFFFF)&nbsp;\
 &nbsp;Crocky GIF\
@@ -38,6 +39,9 @@ Demo videos of my GameDev and art projects:\
 &nbsp;2D Jump'n'Run | for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
 ***
 ### &nbsp;Panty Protect [2021]
+
+<img src="https://user-images.githubusercontent.com/98030917/150637850-f204cf61-ea19-4e06-a035-5d83744bd95c.gif" alt="PeriodPad_GIF" width="186" height="149">
+
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=FFFFFF)&nbsp;\
 &nbsp;Pad GIF\
 &nbsp;unreleased since Oct 2021\
