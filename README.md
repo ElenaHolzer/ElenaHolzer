@@ -38,9 +38,12 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=panty-protect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a>
 
 ## &nbsp;&nbsp;Warteschlangen Simulator
-&nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Dec 2021 - Jan 2022 | for Android | [Download](itchio link)
+&nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Dec 2021 - Jan 2022 | for Android
 
-&nbsp;&nbsp;YouTube link + GIF, GitHub Stats
+&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=CPEz8YxLzNQ" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/150653956-4c996c69-9baa-4f79-898d-b9e8b33f4015.gif" alt="GIF of waddling Pixel man" width="166.43" height="154.66"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ElenaHolzer/warteschlangen-simulator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=warteschlangen-simulator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a>
 
 ## &nbsp;&nbsp;Technical Implementation of an art exhibition [2022]
-&nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat-square&logo=raspberry-pi&logoColor=A22846) | Nov 2021 - Feb 2022
+&nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-2f333d?style=flat&logo=raspberry-pi&logoColor=A22846) | Nov 2021 - Feb 2022
+
+["IRREN" @ Pasinger Fabrik, Munich](https://www.pasinger-fabrik.de/Veranstaltung/odyssee-a-journey-into-the-light-irren/?instance_id=6432)
