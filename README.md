@@ -17,8 +17,8 @@
 ![Git](https://img.shields.io/badge/-Git-2f333d?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-2f333d?style=flat&logo=github)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/-Bash-2f333d?style=flat&logo=gnu-bash&logoColor=4EAA25)&nbsp;\
-![Codecademy](https://img.shields.io/badge/-Codecademy-2f333d?style=flat&logo=codecademy&logoColor=1F4056)&nbsp;
-![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-2f333d?style=flat&logo=freecodecamp&logoColor=0A0A23)&nbsp;
+![Codecademy](https://img.shields.io/badge/-Codecademy-2f333d?style=flat&logo=codecademy&logoColor=6f858a)&nbsp;
+![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-2f333d?style=flat&logo=freecodecamp&logoColor=FFFFFF)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-2f333d?style=flat&logo=raspberry-pi&logoColor=A22846)&nbsp;\
 ![MS Office](https://img.shields.io/badge/-MS%20Office-2f333d?style=flat&logo=microsoft-office&logoColor=D83B01)&nbsp;
 ![Google Suite](https://img.shields.io/badge/-Google%20Suite-2f333d?style=flat&logo=google-drive&logoColor=4285F4)&nbsp;
@@ -32,7 +32,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=crocky-in-the-sewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=xWhn3w2hFZg" target="_blank"><img src="http://img.youtube.com/vi/xWhn3w2hFZg/0.jpg" 
 alt="Preview Picture of Crocky Demo Video" width="186" height="149"/></a>
 
-for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
+&nbsp;for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
 
 ### &nbsp;<img src="https://user-images.githubusercontent.com/98030917/150637850-f204cf61-ea19-4e06-a035-5d83744bd95c.gif" alt="PeriodPad_GIF" width="93" height="74.5">Panty Protect [2021] ![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF)
 
