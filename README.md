@@ -34,7 +34,7 @@
 ## &nbsp;&nbsp;Panty Protect
 &nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Oct 2021 - today (unreleased) | for Windows & MacOS
 
-&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=v64yysZsJgw" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/150648889-ac5ab365-9d5f-4912-b459-b4962edbc0ae.gif" alt="GIF of flying Panty Pad" width="166.43" height="154.66"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ElenaHolzer/panty-protect">
+&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=v64yysZsJgw" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/150654096-42b4ebea-69e7-4357-82fa-63933405c679.gif" alt="GIF of flying Panty Pad" width="166.43" height="154.66"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ElenaHolzer/panty-protect">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=panty-protect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a>
 
 ## &nbsp;&nbsp;Warteschlangen Simulator
@@ -46,4 +46,4 @@
 ## &nbsp;&nbsp;Technical Implementation of an art exhibition [2022]
 &nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-2f333d?style=flat&logo=raspberry-pi&logoColor=A22846) | Nov 2021 - Feb 2022
 
-["IRREN" @ Pasinger Fabrik, Munich](https://www.pasinger-fabrik.de/Veranstaltung/odyssee-a-journey-into-the-light-irren/?instance_id=6432)
+&nbsp;&nbsp;["IRREN" @ Pasinger Fabrik, Munich](https://www.pasinger-fabrik.de/Veranstaltung/odyssee-a-journey-into-the-light-irren/?instance_id=6432)
