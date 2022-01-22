@@ -36,7 +36,8 @@
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=FFFFFF)
 
 <img src="https://user-images.githubusercontent.com/98030917/150637605-9e19174b-fbb5-40ad-ab5f-a6b5056e63f4.gif" alt="Crocky_GIF" width="186" height="149"> <a href="https://github.com/ElenaHolzer/crocky-in-the-sewer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=crocky-in-the-sewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="50%" height="50%"/> </a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=crocky-in-the-sewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="50%" height="50%"/> </a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=xWhn3w2hFZg" target="_blank"><img src="http://img.youtube.com/vi/xWhn3w2hFZg/0.jpg" 
+alt="Preview Picture of Crocky Demo Video" width="186" height="149"/></a>
 
 for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
 
