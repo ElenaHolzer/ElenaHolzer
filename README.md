@@ -34,7 +34,6 @@ Demo videos of my GameDev and art projects:\
 <img src="https://user-images.githubusercontent.com/98030917/150637605-9e19174b-fbb5-40ad-ab5f-a6b5056e63f4.gif" alt="Crocky_GIF" width="186" height="149">
 
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=FFFFFF)&nbsp;\
-&nbsp;Crocky GIF\
 &nbsp;Sep - Oct 2021\
 &nbsp;2D Jump'n'Run | for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
 ***
@@ -43,13 +42,14 @@ Demo videos of my GameDev and art projects:\
 <img src="https://user-images.githubusercontent.com/98030917/150637850-f204cf61-ea19-4e06-a035-5d83744bd95c.gif" alt="PeriodPad_GIF" width="186" height="149">
 
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=FFFFFF)&nbsp;\
-&nbsp;Pad GIF\
 &nbsp;unreleased since Oct 2021\
 &nbsp;2D Arcade | for Windows & MacOS |
 ***
 ### &nbsp;Warteschlangen Simulator [2022]
-&nbsp;Maze GIF
+&nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat-square&logo=unity&logoColor=FFFFFF)&nbsp;\
+&nbsp;Dec 2021 - Jan 2022
 ***
 ### &nbsp;Technical Implementation of an art exhibition [2022]
-&nbsp;LightsOnOff GIF
+&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat-square&logo=raspberry-pi&logoColor=A22846)&nbsp;\
+&nbsp;Nov 2021 - Feb 2022
 ***
