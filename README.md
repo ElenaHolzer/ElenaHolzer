@@ -29,7 +29,7 @@
 ## &nbsp;&nbsp;Crocky in the Sewer
 &nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Sep - Oct 2021 | for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
 
-&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=xWhn3w2hFZg" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/150645462-0e710fe1-eec6-4056-b7c5-4491a37284a0.gif" alt="GIF of Crocky Paddling" width="166.43" height="154.66"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ElenaHolzer/crocky-in-the-sewer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=crocky-in-the-sewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a>
+&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=xWhn3w2hFZg" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/150647450-6d663b57-f6c0-48f9-b833-14796ae74fe6.gif" alt="GIF of Crocky Paddling" width="166.43" height="154.66"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ElenaHolzer/crocky-in-the-sewer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=crocky-in-the-sewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a>
 
 ## &nbsp;&nbsp;Panty Protect
 &nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Oct 2021 - today (unreleased) | for Windows & MacOS
