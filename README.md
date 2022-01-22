@@ -37,15 +37,13 @@
 alt="Preview Picture of Panty Protect Demo Video" width="186" height="149"/></a> <a href="https://github.com/ElenaHolzer/crocky-in-the-sewer">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=crocky-in-the-sewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a>
 
-## &nbsp;&nbsp;Title_Picture
+## &nbsp;&nbsp;Warteschlangen Simulator
+&nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Dec 2021 - Jan 2022 | for Android | [Download](itchio link)
 
-&nbsp; YouTube link + GIF, GitHub Stats
-
-&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Dec 2021 - Jan 2022 | for Android | [Download](itchio link)
+&nbsp;&nbsp;YouTube link + GIF, GitHub Stats
 
 ## &nbsp;&nbsp;Technical Implementation of an art exhibition [2022]
-&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat-square&logo=raspberry-pi&logoColor=A22846)&nbsp;\
-&nbsp;Nov 2021 - Feb 2022
+&nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat-square&logo=raspberry-pi&logoColor=A22846) | Nov 2021 - Feb 2022
 
 <img src="https://user-images.githubusercontent.com/98030917/150637605-9e19174b-fbb5-40ad-ab5f-a6b5056e63f4.gif" alt="Crocky_GIF" width="93" height="74.5">
 
