@@ -26,24 +26,30 @@
 # &nbsp;Projects
 &nbsp;For demo videos & art projects visit my YouTube channel:&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCz3NjkPxy6WkMclQIUecLYg"><img src="https://img.shields.io/badge/-Elena Holzer-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 
+---
 ## &nbsp;&nbsp;Crocky in the Sewer
 &nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Sep - Oct 2021 | for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
 
 &nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=xWhn3w2hFZg" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/150648204-8a99872a-608e-449d-8469-02b60494d0e8.gif" alt="GIF of Crocky Paddling" width="166.43" height="154.66"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ElenaHolzer/crocky-in-the-sewer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=crocky-in-the-sewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a>
 
+---
 ## &nbsp;&nbsp;Panty Protect
 &nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Oct 2021 - today (unreleased) | for Windows & MacOS
 
 &nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=v64yysZsJgw" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/150654096-42b4ebea-69e7-4357-82fa-63933405c679.gif" alt="GIF of flying Panty Pad" width="166.43" height="154.66"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ElenaHolzer/panty-protect">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=panty-protect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a>
 
+---
 ## &nbsp;&nbsp;Warteschlangen Simulator
 &nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Dec 2021 - Jan 2022 | for Android
 
 &nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=CPEz8YxLzNQ" target="_blank"><img src="https://user-images.githubusercontent.com/98030917/150653956-4c996c69-9baa-4f79-898d-b9e8b33f4015.gif" alt="GIF of waddling Pixel man" width="166.43" height="154.66"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ElenaHolzer/warteschlangen-simulator">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaHolzer&repo=warteschlangen-simulator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2f333d" width="50%" height="50%"/> </a>
 
+---
 ## &nbsp;&nbsp;Technical Implementation of an art exhibition [2022]
 &nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-2f333d?style=flat&logo=raspberry-pi&logoColor=A22846) | Nov 2021 - Feb 2022
 
 &nbsp;&nbsp;["IRREN" @ Pasinger Fabrik, Munich](https://www.pasinger-fabrik.de/Veranstaltung/odyssee-a-journey-into-the-light-irren/?instance_id=6432)
+
+---
