@@ -5,7 +5,7 @@
 🤸🏼‍♀️ &nbsp;Always curious for new challenges and chances to explore
 
 # &nbsp;Contact
-<a href="https://linkedin.com/in/elena-holzer"><img src="https://img.shields.io/badge/-Elena%20Holzer-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:elena.holzer92@gmail.com"><img src="https://img.shields.io/badge/-elena.holzer92@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://discordapp.com/users/564911438049706038"><img src="https://img.shields.io/badge/-Eidexxe3590-5865F2?style=flat&logo=Discord&logoColor=white"/></a> <a href="https://www.youtube.com/channel/UCz3NjkPxy6WkMclQIUecLYg"><img src="https://img.shields.io/badge/-Elena Holzer-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://linkedin.com/in/elena-holzer"><img src="https://img.shields.io/badge/-Elena%20Holzer-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:elena.holzer92@gmail.com"><img src="https://img.shields.io/badge/-elena.holzer92@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://discordapp.com/users/564911438049706038"><img src="https://img.shields.io/badge/-Eidexxe3590-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 
 # &nbsp;Skills
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2f333d?style=flat&logo=adobe-photoshop&logoColor=31A8FF)&nbsp;
@@ -24,6 +24,7 @@
 ![Google Suite](https://img.shields.io/badge/-Google%20Suite-2f333d?style=flat&logo=google-drive&logoColor=4285F4)&nbsp;
 
 # &nbsp;Projects
+&nbsp;For demo videos & art projects visit my YouTube channel:&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCz3NjkPxy6WkMclQIUecLYg"><img src="https://img.shields.io/badge/-Elena Holzer-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 
 ## &nbsp;&nbsp;Crocky in the Sewer
 &nbsp;&nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Sep - Oct 2021 | for Windows & MacOS | [Download](https://elena-holzer.itch.io/crocky)
@@ -44,8 +45,3 @@ alt="Preview Picture of Panty Protect Demo Video" width="186" height="149"/></a>
 
 ## &nbsp;&nbsp;Technical Implementation of an art exhibition [2022]
 &nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat-square&logo=raspberry-pi&logoColor=A22846) | Nov 2021 - Feb 2022
-
-<img src="https://user-images.githubusercontent.com/98030917/150637605-9e19174b-fbb5-40ad-ab5f-a6b5056e63f4.gif" alt="Crocky_GIF" width="93" height="74.5">
-
-![CrockyGIFtext](https://user-images.githubusercontent.com/98030917/150645462-0e710fe1-eec6-4056-b7c5-4491a37284a0.gif)
-&nbsp;![Crocky_Titel_Entw01](https://user-images.githubusercontent.com/98030917/150643181-8eec21d8-2b73-4dab-a0b7-7853d421ae21.JPG)
