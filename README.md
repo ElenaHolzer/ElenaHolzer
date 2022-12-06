@@ -1,6 +1,6 @@
 # &nbsp;About
 💡 &nbsp;Creative, avid hobbyprogrammer and artist\
-🎓 &nbsp;Computer science student from April 2022 on at [*FernUniversität Hagen*](https://www.fernuni-hagen.de/english/) (Germany)\
+🎓 &nbsp;IT student since April 2022 at [*FernUniversität Hagen*](https://www.fernuni-hagen.de/english/) (Germany)\
 🤝🏼 &nbsp;I'm an open-minded, willing to learn teamplayer\
 🤸🏼‍♀️ &nbsp;Always curious for new challenges and chances to explore
 
