@@ -14,12 +14,12 @@
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-2f333d?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f333d?style=flat&logo=visual-studio-code&logoColor=5C2D91)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-2f333d?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-2f333d?style=flat&logo=github)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/-Bash-2f333d?style=flat&logo=gnu-bash&logoColor=4EAA25)&nbsp;\
 ![Codecademy](https://img.shields.io/badge/-Codecademy-2f333d?style=flat&logo=codecademy&logoColor=6f858a)&nbsp;
 ![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-2f333d?style=flat&logo=freecodecamp&logoColor=FFFFFF)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-2f333d?style=flat&logo=raspberry-pi&logoColor=A22846)&nbsp;\
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-2f333d?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
 ![MS Office](https://img.shields.io/badge/-MS%20Office-2f333d?style=flat&logo=microsoft-office&logoColor=D83B01)&nbsp;
 ![Google Suite](https://img.shields.io/badge/-Google%20Suite-2f333d?style=flat&logo=google-drive&logoColor=4285F4)&nbsp;
 
