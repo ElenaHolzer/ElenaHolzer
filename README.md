@@ -47,10 +47,11 @@
 <img src="https://user-images.githubusercontent.com/98030917/213495004-920c0987-0e24-4681-9328-46ce2156fae2.png" width="50%" height="50%"/> </a>
 
 ---
-## &nbsp;&nbsp;Technical Implementation of an art exhibition [2022]
+## &nbsp;&nbsp;Technical Implementation of an art exhibition
 &nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-2f333d?style=flat&logo=raspberry-pi&logoColor=A22846) | Nov 2021 - Feb 2022
 
-&nbsp;&nbsp;[Ausstellung Klasse Hien AdbK, Munich](https://www.adbk.de/de/aktuell/aktuell-kategorieblog/3386-klasse-hien-irren.html)&nbsp;\
+<a href="https://github.com/ElenaHolzer/panty-protect"> <img src="https://user-images.githubusercontent.com/98030917/213497178-f4883a45-21c1-4c5e-bd03-5986d8440e08.jpg" width="60%" height="60%"/> </a> &nbsp;\
 &nbsp;\
 &nbsp;&nbsp;["IRREN" @ Pasinger Fabrik, Munich](https://www.pasinger-fabrik.de/Veranstaltung/odyssee-a-journey-into-the-light-irren/?instance_id=6432)
+
 ---
