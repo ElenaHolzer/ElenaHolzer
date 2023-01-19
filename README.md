@@ -51,7 +51,7 @@
 &nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-2f333d?style=flat&logo=raspberry-pi&logoColor=A22846) | Nov 2021 - Feb 2022
 
 #### Click on the picture to see details:&nbsp;
-<a href="https://github.com/ElenaHolzer/panty-protect"> <img src="https://user-images.githubusercontent.com/98030917/213497178-f4883a45-21c1-4c5e-bd03-5986d8440e08.jpg" width="70%" height="70%"/> </a> &nbsp;\
+<a href="https://github.com/ElenaHolzer/Art-Exhibition-IRREN"> <img src="https://user-images.githubusercontent.com/98030917/213497178-f4883a45-21c1-4c5e-bd03-5986d8440e08.jpg" width="70%" height="70%"/> </a> &nbsp;\
 &nbsp;\
 &nbsp;&nbsp;["IRREN" @ Pasinger Fabrik, Munich](https://www.pasinger-fabrik.de/Veranstaltung/odyssee-a-journey-into-the-light-irren/?instance_id=6432)
 
